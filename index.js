@@ -1,7 +1,7 @@
 'use strict';
 
-module.exports = function cssColorList(options) {
-  options = options || {};
+var cssColorNames = require('css-color-names');
 
-  return true;
+module.exports = function cssColorList() {
+  return Object.keys(cssColorNames);
 }

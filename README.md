@@ -15,7 +15,7 @@ npm install --save css-color-list
 ```javascript
 var cssColorList = require('css-color-list');
 
-cssColorList();  // => true
+cssColorList();  // => ['aqua', ..., 'rebeccapurple']
 ```
 
 ## License

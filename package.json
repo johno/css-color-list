@@ -14,15 +14,15 @@
     "type": "git",
     "url": "https://github.com/johnotander/css-color-list.git"
   },
-  "keywords": [
-
-  ],
+  "keywords": [],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnotander/css-color-list/issues"
   },
   "homepage": "https://github.com/johnotander/css-color-list",
-  "dependencies": {},
+  "dependencies": {
+    "css-color-names": "0.0.1"
+  },
   "devDependencies": {
     "mocha": "*"
   }
