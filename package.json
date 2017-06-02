@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/johnotander/css-color-list",
   "dependencies": {
-    "css-color-names": "0.0.1"
+    "css-color-names": "0.0.4"
   },
   "devDependencies": {
     "mocha": "*"
